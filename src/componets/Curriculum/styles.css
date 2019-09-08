@@ -1,0 +1,52 @@
+#cap {
+  background-color: rgb(24, 19, 29);
+  text-align: center;
+  color: rgb(255, 0, 179);
+  height: 50px;
+  font-size: 20px;
+}
+#dados {
+  text-align: center;
+  color: lawngreen;
+}
+
+#habi {
+  align-content: center;
+  text-align: center;
+  background-color: rgb(24, 19, 29);
+}
+
+#skills {
+  align-content: center;
+  text-align: center;
+  list-style-position: inside;
+  background-color: rgb(13, 19, 32);
+
+  display: inline;
+}
+
+#exp h2 {
+  color: lawngreen;
+}
+#exp h4 {
+  color: lawngreen;
+  font-style: italic;
+  font-weight: inherit;
+}
+#exp p {
+  text-align: justify;
+  width: 50%;
+}
+
+#estudos h2 {
+  color: rgb(252, 0, 218);
+}
+#estudos h4 {
+  color: rgb(252, 0, 218);
+  font-style: italic;
+  font-weight: inherit;
+}
+#estudos p {
+  text-align: justify;
+  width: 50%;
+}
