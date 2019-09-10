@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+
 
 import "./styles.css";
 
@@ -7,7 +8,7 @@ function Nome(props) {
         <div id="cap">
             <h1>{props.name}</h1>
         </div>
-        <div id="dados">
+        {/* <div id="dados">
             <br></br>
 
             <h5>Idade: {props.idade} anos</h5>
@@ -61,7 +62,7 @@ function Nome(props) {
 
         <div>
 
-        </div>
+        </div> */}
 
 
     </div>
